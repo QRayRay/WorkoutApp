@@ -11,4 +11,6 @@
     <color name="colorPrimaryDark">#B2212120</color>
     <color name="colorAccent">#008F24</color>
     <color name="lightGrey">#c4c4c4</color>
+    <color name="toolbar_color_control_normal">#FF000000</color>
+
 </resources>
