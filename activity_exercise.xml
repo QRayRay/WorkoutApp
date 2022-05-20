@@ -17,6 +17,8 @@
 
         />
 
+    //set new view to show first timer
+    
     <TextView
         android:id="@+id/tvTitle"
         android:layout_width="wrap_content"
