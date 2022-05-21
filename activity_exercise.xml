@@ -17,7 +17,7 @@
 
         />
 
-    //set new view to show first timer
+    //set new view to show first timer. The first activity is not appearing. Only the timer activity is.
     
     <TextView
         android:id="@+id/tvTitle"
