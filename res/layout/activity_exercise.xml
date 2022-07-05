@@ -5,6 +5,8 @@
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".ExerciseActivity">
+    
+    // adjust jumo rope to 100 reps instead of 150. Adjust timer for this as well.
 
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/toolbarExercise"
